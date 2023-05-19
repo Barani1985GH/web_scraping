@@ -11,7 +11,5 @@ This code will we scrap the needed information from https://static.bc-edx.com/da
 HOW TO RUN THE PROJECT
 
 Panda Script :
-Open folder Pymaceuticals 
-Open pymaceuticals_starter.ipynb 
-Run pymaceuticals_starter.ipynb by activating jupyter notebook from the terminal. The ipynb file includes comments for ease of understanding. Alternatively, run pymaceuticals_starter.ipynb in visual studio to review the code and comments. 
-Use Terminal to run the python file to see the results and review the trends observed on each findings
+Download part_1_mars_news.ipynb and part_2_mars_weather and open VSCODE or jupyter notebook to run the script.To run the script install BeautifulSoup and splinter libraries 
+
